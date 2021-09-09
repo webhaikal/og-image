@@ -10,6 +10,7 @@
     "chrome-aws-lambda": "7.0.0",
     "marked": "2.0.0",
     "puppeteer-core": "7.0.0",
+    "svg64": "1.1.0",
     "twemoji": "13.0.1"
   },
   "devDependencies": {

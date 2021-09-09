@@ -6,6 +6,11 @@ export interface ParsedRequest {
     text: string;
     theme: Theme;
     md: boolean;
+    groom: string;
+    bride: string;
+    date: string;
+    time: string;
+    location: string;
     fontSize: string;
     images: string[];
     widths: string[];
